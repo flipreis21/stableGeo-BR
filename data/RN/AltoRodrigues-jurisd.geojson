@@ -1,1 +1,38 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-36.842,-5.38],[-36.838,-5.392],[-36.734,-5.399],[-36.708,-5.401],[-36.611,-5.407],[-36.537,-5.412],[-36.555,-5.395],[-36.664,-5.372],[-36.754,-5.272],[-36.766,-5.284],[-36.776,-5.292],[-36.78,-5.309],[-36.803,-5.334],[-36.809,-5.342],[-36.813,-5.359],[-36.811,-5.366],[-36.817,-5.369],[-36.834,-5.367],[-36.84,-5.372],[-36.842,-5.38]]]},"properties":{"ddd":84,"name":"AltodoRodrigues","abbrev":"ADG","osm_id":301199,"name_en":null,"isolevel":"3","lexlabel":"alto.rodrigues","parent_id":301079,"admin_level":8,"wikidata_id":1787554,"isolabel_ext":"BR-RN-AltoRodrigues","jurisd_base_id":76,"jurisd_local_id":2400703}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+          [-36.842,-5.38],
+          [-36.838,-5.392], [-36.734,-5.399], [-36.708,-5.401], [-36.611,-5.407],
+          [-36.537,-5.412], [-36.555,-5.395], [-36.664,-5.372], [-36.754,-5.272],
+          [-36.766,-5.284], [-36.776,-5.292], [-36.78,-5.309], [-36.803,-5.334],
+          [-36.809,-5.342], [-36.813,-5.359], [-36.811,-5.366], [-36.817,-5.369],
+          [-36.834,-5.367], [-36.84,-5.372], [-36.842,-5.38]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ddd": 84,
+        "name": "Alto do Rodrigues",
+        "abbrev": "ADG",
+        "osm_id": 301199,
+        "name_en": null,
+        "isolevel": "3",
+        "lexlabel": "alto.rodrigues",
+        "parent_id": 301079,
+        "admin_level": 8,
+        "wikidata_id": 1787554,
+        "isolabel_ext": "BR-RN-AltoRodrigues",
+        "jurisd_base_id": 76,
+        "jurisd_local_id": 2400703
+      }
+    }
+  ]
+}

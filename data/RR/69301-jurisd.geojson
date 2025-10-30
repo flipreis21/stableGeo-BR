@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "ddd": 95,
+        "name": "69301",
+        "abbrev": "BVA16",
+        "osm_id": 32628669301,
+        "name_en": null,
+        "isolevel": "3",
+        "lexlabel": "69301",
+        "parent_id": 326287,
+        "admin_level": 8,
+        "wikidata_id": null,
+        "isolabel_ext": "BR-RR-69301",
+        "jurisd_base_id": 76,
+        "jurisd_local_id": 140010016
+      }
+    }
+  ]
+}

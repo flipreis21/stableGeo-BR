@@ -1,1 +1,36 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-36.22641,-6.43498],[-36.226,-6.452],[-36.226,-6.467],[-36.225,-6.483],[-36.225,-6.513],[-36.225,-6.559],[-36.18,-6.47],[-36.18,-6.469],[-36.174,-6.43],[-36.20368,-6.43308],[-36.20437,-6.43305],[-36.22641,-6.43498]]]},"properties":{"ddd":83,"name":"NovaFloresta","abbrev":"NVF","osm_id":301344,"name_en":null,"isolevel":"3","lexlabel":"nova.floresta","parent_id":301464,"admin_level":8,"wikidata_id":521125,"isolabel_ext":"BR-PB-NovaFloresta","jurisd_base_id":76,"jurisd_local_id":2510105}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+          [-36.22641,-6.43498],
+          [-36.226,-6.452], [-36.226,-6.467], [-36.225,-6.483], [-36.225,-6.513],
+          [-36.225,-6.559], [-36.18,-6.47], [-36.18,-6.469], [-36.174,-6.43],
+          [-36.20368,-6.43308], [-36.20437,-6.43305], [-36.22641,-6.43498]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ddd": 83,
+        "name": "Nova Floresta",
+        "abbrev": "NVF",
+        "osm_id": 301344,
+        "name_en": null,
+        "isolevel": "3",
+        "lexlabel": "nova.floresta",
+        "parent_id": 301464,
+        "admin_level": 8,
+        "wikidata_id": 521125,
+        "isolabel_ext": "BR-PB-NovaFloresta",
+        "jurisd_base_id": 76,
+        "jurisd_local_id": 2510105
+      }
+    }
+  ]
+}

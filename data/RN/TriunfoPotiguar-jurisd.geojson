@@ -1,1 +1,38 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-37.26,-5.908],[-37.233,-5.939],[-37.162,-6.021],[-37.159,-6.01],[-37.154,-5.993],[-37.148,-5.99],[-37.143,-5.979],[-37.131,-5.968],[-37.128,-5.956],[-37.122,-5.954],[-37.067,-5.984],[-37.062,-5.97],[-37.03558,-5.89107],[-37.101,-5.872],[-37.13,-5.873],[-37.148,-5.866],[-37.195,-5.823],[-37.228,-5.867],[-37.26,-5.908]]]},"properties":{"ddd":84,"name":"TriunfoPotiguar","abbrev":null,"osm_id":301126,"name_en":null,"isolevel":"3","lexlabel":"triunfo.potiguar","parent_id":301079,"admin_level":8,"wikidata_id":1802221,"isolabel_ext":"BR-RN-TriunfoPotiguar","jurisd_base_id":76,"jurisd_local_id":2414456}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+          [-37.26,-5.908],
+          [-37.233,-5.939], [-37.162,-6.021], [-37.159,-6.01], [-37.154,-5.993],
+          [-37.148,-5.99], [-37.143,-5.979], [-37.131,-5.968], [-37.128,-5.956],
+          [-37.122,-5.954], [-37.067,-5.984], [-37.062,-5.97], [-37.03558,-5.89107],
+          [-37.101,-5.872], [-37.13,-5.873], [-37.148,-5.866], [-37.195,-5.823],
+          [-37.228,-5.867], [-37.26,-5.908]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ddd": 84,
+        "name": "Triunfo Potiguar",
+        "abbrev": null,
+        "osm_id": 301126,
+        "name_en": null,
+        "isolevel": "3",
+        "lexlabel": "triunfo.potiguar",
+        "parent_id": 301079,
+        "admin_level": 8,
+        "wikidata_id": 1802221,
+        "isolabel_ext": "BR-RN-TriunfoPotiguar",
+        "jurisd_base_id": 76,
+        "jurisd_local_id": 2414456
+      }
+    }
+  ]
+}
